@@ -123,8 +123,8 @@ php artisan migrate
 | John             | Coordenador geral           |
 | Felipe           | Desenvolvedor Frontend      |
 | Daiane           | Gestora de Requisitos       |
-| **Kayky Silva**  | Desenvolvedor Backend (atual) |
-| Marcos Henrique  | Backend (versão anterior)   |
+| Kayky Nogueira   | Desenvolvedor Backend  |
+| Marcos Henrique  | Desenvolvedor Backend    |
 
 ---
 
